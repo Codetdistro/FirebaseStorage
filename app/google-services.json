@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1006084150556",
+    "firebase_url": "https://localstorage-3b71a-default-rtdb.firebaseio.com",
+    "project_id": "localstorage-3b71a",
+    "storage_bucket": "localstorage-3b71a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1006084150556:android:bfcfc46df9566f4a8216d9",
+        "android_client_info": {
+          "package_name": "com.example.firebasestorage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1006084150556-kgq0a9ei7cdan5r32ivaocsaa0ev7jvg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBe1l272YQYy4OqsktINrycjF0F05EIqB0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1006084150556-kgq0a9ei7cdan5r32ivaocsaa0ev7jvg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
